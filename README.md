@@ -65,6 +65,12 @@ Beyond the core identity prompt, the system includes specialized agent prompts, 
 |---|--------|--------|-------------|
 | 18 | [Proactive Mode](prompts/18_proactive_mode.md) | `prompts.ts` | Autonomous agent with tick-based pacing and terminal focus awareness |
 
+### Bundled Skills
+
+| # | Prompt | Source | Description |
+|---|--------|--------|-------------|
+| 19 | [Simplify Skill](prompts/19_simplify_skill.md) | Bundled binary | Three-agent parallel review for code reuse, quality, and efficiency |
+
 ## Architecture
 
 ### Prompt Assembly
@@ -141,6 +147,7 @@ claude-code-system-prompts/
         16_memory_selection.md
         17_auto_mode_critique.md
         18_proactive_mode.md
+        19_simplify_skill.md
 ```
 
 ## Disclaimer
