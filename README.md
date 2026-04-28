@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/leonxlnx-agentic-ai-prompt-research-badge.png)](https://mseep.ai/app/leonxlnx-agentic-ai-prompt-research)
+
 # Claude Code System Prompts
 
 A research project exploring how modern agentic AI coding assistants work under the hood. This repository contains our best understanding of the prompt architecture, agent coordination patterns, and security mechanisms that power tools like Claude Code.
